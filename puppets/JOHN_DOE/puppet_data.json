@@ -1,0 +1,50 @@
+{
+    "identity": {
+        "First Name": "John",
+        "Last Name": "Doe",
+        "Full Name": "John Doe",
+        "Gender": "Male",
+        "Age": 52,
+        "Birthday": "01/29/1973",
+        "Political Alignment": "left",
+        "Occupation": "Advice worker",
+        "Street": "082 Jessica Orchard",
+        "City": "Danielside",
+        "State": "Louisiana",
+        "Zipcode": "33946",
+        "Telephone": "001-591-380-0691",
+        "Biography": "Advice worker based in Danielside. Passionate about community support and digital privacy. @Maria is my better half. Views are my own. 🕊️",
+        "Security": {
+            "Password": "lEA%NpsYfTJOY0$f",
+            "Question": "First Pet Name",
+            "Answer": "Brittany"
+        }
+    },
+    "digital_assets": [
+        {
+            "username": "jdoe73",
+            "email": "jdoe73@proton.me"
+        },
+        {
+            "username": "doe_john_la",
+            "email": "doe_john_la@tuta.io"
+        },
+        {
+            "username": "nexus.john9",
+            "email": "nexus.john9@mailfence.com"
+        },
+        {
+            "username": "johndoe_advice",
+            "email": "johndoe_advice@proton.me"
+        }
+    ],
+    "content_plan": [
+        "nothing beats a sunday bbq with the family. feeling blessed. 🍔🔥",
+        "[FORUM THREAD] What are the most overlooked forensic artifacts in modern macOS versions for incident response?",
+        "[FORUM THREAD] How do you effectively scrub metadata from nested file structures before public distribution?",
+        "family over everything. ❤️",
+        "honestly just tired of the drama. stay positive folks. ✌️",
+        "grateful for a partner who handles my moods. ❤️🙏"
+    ],
+    "avatar": "real_photo"
+}
