@@ -34,31 +34,31 @@ pip3 install -r requirements.txt
 
 By default, it generates a core identity. Use flags to enable extended content.
 
-### Basic Generation
+### Basic generation
 
 ```bash
 python3 puppetmaster.py
 ```
 
-### Enable Social Presence
+### Enable social presence
 
 ```bash
 python3 puppetmaster.py --bio --content
 ```
 
-### Enable Cybersecurity Forum Presence
+### Enable forums presence
 
 ```bash
 python3 puppetmaster.py --forum-posts
 ```
 
-### Full Persona Forge
+### Full persona forge
 
 ```bash
 python3 puppetmaster.py --bio --content --forum-posts
 ```
 
-## 📁 Output Structure
+## 📁 Output structure
 
 Every puppet is stored in its own directory within the `puppets/` folder:
 
